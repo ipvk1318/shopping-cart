@@ -1,4 +1,4 @@
-{
+[
   {
     "barcodeId": 1,
     "productName": "Nestle Maggi",
@@ -29,4 +29,4 @@
     "netWt": "25g",
      "price":10
   },
-}
+]
