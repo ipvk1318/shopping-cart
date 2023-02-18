@@ -1,0 +1,32 @@
+[
+  {
+    "barcodeId": 1,
+    "productName": "Nestle Maggi",
+    "netWt": 70g,
+     "price":50
+  },
+  {
+    "barcodeId": 2,
+    "productName": "Oreo",
+    "netWt": 10g,
+     "price":10
+  },
+  {
+    "barcodeId": 3,
+    "productName": "Kurkure",
+    "netWt": 15g,
+     "price":10
+  },
+  {
+    "barcodeId": 4,
+    "productName": "Dairy Milk Small",
+    "netWt": 20g,
+     "price":20
+  },
+ {
+    "barcodeId": 5,
+    "productName": "Lottie Chocopie",
+    "netWt": 25g,
+     "price":10
+  },
+]
