@@ -1,5 +1,6 @@
-[
-  {
+{
+   "db": [
+     {
     "barcodeId": 1,
     "productName": "Nestle Maggi",
     "netWt": "70g",
@@ -28,5 +29,6 @@
     "productName": "Lottie Chocopie",
     "netWt": "25g",
      "price":10
-  },
-]
+   }
+  ]
+}
