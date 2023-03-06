@@ -1,31 +1,31 @@
 {
    "posts": [
      {
-    "barcodeId": 1,
+    "barcodeId": "B0753H9768",
     "productName": "Nestle Maggi",
     "netWt": "70g",
      "price":50
   },
   {
-    "barcodeId": 2,
+    "barcodeId": "765756931199",
     "productName": "Oreo",
     "netWt": "10g",
      "price":10
   },
   {
-    "barcodeId": 3,
+    "barcodeId": "8906013033016",
     "productName": "Kurkure",
     "netWt": "15g",
      "price":10
   },
   {
-    "barcodeId": 4,
+    "barcodeId": "8901030887116",
     "productName": "Dairy Milk Small",
     "netWt": "20g",
      "price":20
   },
   {
-    "barcodeId": 5,
+    "barcodeId": "8901262177016",
     "productName": "Lottie Chocopie",
     "netWt": "25g",
      "price":10
